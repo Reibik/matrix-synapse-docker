@@ -24,7 +24,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/matrix-synapse-docker.git
+git clone https://github.com/Reibik/matrix-synapse-docker.git
 cd matrix-synapse-docker
 ```
 
@@ -375,7 +375,7 @@ MIT License
 ## Поддержка
 
 Если у вас возникли проблемы:
-1. Проверьте [Issues](https://github.com/YOUR_USERNAME/matrix-synapse-docker/issues)
+1. Проверьте [Issues](https://github.com/Reibik/matrix-synapse-docker/issues)
 2. Создайте новый Issue с описанием проблемы
 3. Приложите вывод `./scripts/status.sh` и логи
 
